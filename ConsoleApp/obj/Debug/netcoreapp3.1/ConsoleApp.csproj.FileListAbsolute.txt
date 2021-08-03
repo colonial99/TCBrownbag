@@ -1,0 +1,12 @@
+C:\Dev\TCBrownbag\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Dev\TCBrownbag\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Dev\TCBrownbag\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Dev\TCBrownbag\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Dev\TCBrownbag\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Dev\TCBrownbag\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Dev\TCBrownbag\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Dev\TCBrownbag\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Dev\TCBrownbag\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Dev\TCBrownbag\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Dev\TCBrownbag\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Dev\TCBrownbag\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
